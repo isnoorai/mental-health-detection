@@ -1,5 +1,3 @@
-# mental-health-detection
-This project implements a multi-model NLP pipeline to classify social media text into 7 mental health categories. Our primary objective was to prioritize clinical safety by maximizing recall for high-risk categories.
 # Mental Health Detection from Social Media Posts
 ### **Team MARS** | CSS 324: Introduction to Machine Learning
 **Instructor:** Zhaniya Medeuova  
